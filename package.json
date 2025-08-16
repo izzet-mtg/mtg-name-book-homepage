@@ -4,5 +4,8 @@
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "honkit": "^6.0.3"
   }
 }
