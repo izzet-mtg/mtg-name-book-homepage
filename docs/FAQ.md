@@ -4,7 +4,7 @@
 
 [イントロダクション](README.md) にあるブラウザー以外に対応してません。
 
-## 拡張・本サイトに関する問い合わせ先
+## 拡張に関する問い合わせ先
 
 [Google Form](https://forms.gle/RuiY7dgmZqnWzGvVA) からお願いします。
 
@@ -17,3 +17,7 @@
 
 GitHub でホストしています([リンク](https://github.com/izzet-mtg/mtg-name-book))。
 そちらから Issue を作成してください。
+
+## 本サイトへの問い合わせ先
+
+[Google Form](https://forms.gle/GyLqYS2HcUMD54BJ6) からお願いします。
